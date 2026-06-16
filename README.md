@@ -1,1 +1,1 @@
-# kripto-sinyal
+# Kripto Sinyal
